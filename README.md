@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VTenoris
 - 👀 I’m interested in Tech & Blockchain
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 📫 You can reach me from e-mail: dr.enescakir@gmail.com
 
 <!---
